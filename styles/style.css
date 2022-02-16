@@ -1,0 +1,32 @@
+.bank-money{
+    color: #31A5AC ;
+}
+.calculeot-area {
+   background-color: #F8F8F8;
+}
+label{
+    width: 70px;
+    display: inline-block;
+}
+input{
+    background-color: #DCDCDC;
+    border: none;
+    border-radius: 3px;
+}
+
+.peramari-button{
+   background-color: #59A5FF;
+   border: none;
+   color: white;
+   font-weight: 700;
+   padding: 10px 60px;
+   border-radius: 3px;
+   font-size: 20px;
+}
+
+.save-input{
+    width: 100px;
+}
+h5{
+    display: none;
+}
